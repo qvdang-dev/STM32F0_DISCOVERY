@@ -1,0 +1,16 @@
+stm32f0xx_flash.pbi: \
+  D:\Tech\Code\STM32_DISCOVERY\stm32f0xx_sdtPeriph_driver\source\stm32f0xx_flash.c \
+  D:\Tech\Code\STM32_DISCOVERY\stm32f0xx_sdtPeriph_driver\include\stm32f0xx_flash.h \
+  D:\Tech\Code\STM32_DISCOVERY\user\stm32f0xx.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\CMSIS\Core\Include\core_cm0.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\CMSIS\Core\Include/cmsis_version.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\CMSIS\Core\Include/cmsis_compiler.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\CMSIS\Core\Include\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\iccarm_builtin.h \
+  D:\Tech\Code\STM32_DISCOVERY\user/system_stm32f0xx.h
